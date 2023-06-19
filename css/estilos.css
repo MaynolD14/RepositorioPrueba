@@ -1,18 +1,19 @@
 body{
-    color: blue; 
-    text-align: center;  
+    color: rgb(20, 20, 20);  
     font-family: "Arial";
     font-size: 16px; 
     margin: 0; 
     padding: 0;
+    background-color: rgb(178, 169, 169);
 }
 
 #container{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 2px solid #DDD;
+    border: 2px solid #c4bcbc;
     margin: 6px auto; 
+    background-color: aliceblue;
 }
 
 #cabecera{
